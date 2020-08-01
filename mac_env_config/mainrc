@@ -1,0 +1,7 @@
+export CONFIG_HOME=/Users/zhangjinlong/workspace/config
+source $CONFIG_HOME/zshrc
+source $CONFIG_HOME/homerewrc
+source $CONFIG_HOME/javarc
+source $CONFIG_HOME/mongorc
+source $CONFIG_HOME/noderc
+source $CONFIG_HOME/readlink

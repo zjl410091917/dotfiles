@@ -1,0 +1,2 @@
+# 不在每次都自动更新
+export HOMEBREW_NO_AUTO_UPDATE=true
