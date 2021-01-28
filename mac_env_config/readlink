@@ -1,2 +1,2 @@
-export PATH=$PATH:/usr/local/opt/coreutils/libexec/gnubin
-alias readlink=greadlink
+#export PATH=$PATH:/usr/local/opt/coreutils/libexec/gnubin
+#alias readlink=greadlink

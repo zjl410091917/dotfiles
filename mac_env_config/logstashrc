@@ -1,0 +1,1 @@
+export PATH=$PATH:/usr/local/logstash-7.8.0/bin
