@@ -1,0 +1,20 @@
+Host *
+    ControlMaster auto
+    ControlPath ~/.tmp/ssh_mux_%h_%p_%r
+    ControlPersist 4h
+Host dev
+    HostName 10.0.84.14
+    User zhangjinlong
+Host logs
+    HostName 10.0.84.42
+    User root
+Host jmp
+   HostName 10.13.148.116
+   User jinlong.zhang
+   Port 63008
+Host jc
+   HostName 10.0.17.79
+   User jc
+Host sim 
+   HostName 10.0.84.135
+   User jinlong

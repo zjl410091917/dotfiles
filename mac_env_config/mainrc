@@ -7,3 +7,4 @@ source $CONFIG_HOME/noderc
 #source $CONFIG_HOME/readlink
 source $CONFIG_HOME/logstashrc
 source $CONFIG_HOME/nvmrc
+source $CONFIG_HOME/denorc
