@@ -8,3 +8,11 @@ source $CONFIG_HOME/noderc
 source $CONFIG_HOME/logstashrc
 source $CONFIG_HOME/nvmrc
 source $CONFIG_HOME/denorc
+source $CONFIG_HOME/gorc
+source $CONFIG_HOME/pbrc
+source $CONFIG_HOME/dockerrc
+
+alias grep=ggrep
+alias rm='rm -Rf'
+
+unalias gf

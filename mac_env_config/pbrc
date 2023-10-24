@@ -1,0 +1,2 @@
+export PROTOBUF=/usr/local/protobuf 
+export PATH=$PATH:$PROTOBUF/bin
